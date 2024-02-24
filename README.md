@@ -1,3 +1,6 @@
 ## Spacey
-Experimental work in progress space shooter game made possible with Macroquad.
-- Project is only made for learning purposes, nothing serious here.
+Experimental space shooter game made possible with Macroquad.
+ > It's just for learning, nothing serious!
+
+### License
+Released under MIT license.
